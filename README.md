@@ -1,0 +1,2 @@
+# CatPlay
+A nuxt project
